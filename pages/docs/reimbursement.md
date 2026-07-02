@@ -73,6 +73,12 @@ Please note the following:
 
 ### Notes for specific events and workshops (reverse chronological order)
 
+#### [IRIS-HEP Software Basics Training at BNL](https://indico.cern.ch/event/1683420/)
+  * Location: Brookhaven National Laboratory, Upton, NY
+  * Meeting Dates: 3-5 June, 2026
+  * Business purpose: Participation in IRIS-HEP Software Basics Training Training event
+  * "event-prefix" for pdf file naming: BNL-SW-Training
+
 #### [USCMS/IRIS-HEP 2026 Analysis Software Training](https://indico.cern.ch/event/1633748/)
   * Location: University of Maryland, College Park, MD
   * Meeting Dates: 1-2 June, 2026
@@ -90,6 +96,12 @@ Please note the following:
   * Meeting Dates: 23-24 April, 2026
   * Business purpose: Participation in Open (and Closed) Data in the Age of AI Workshop
   * "event-prefix" for pdf file naming: AI-Open-Closed-Data-2026
+
+#### [APS Global Summit](https://summit.aps.org)
+  * Location: Denver, CO
+  * Meeting Dates: 15-20 March, 2026
+  * Business purpose: Participation in APS Global Summit (HEP Software Panel)
+  * "event-prefix" for pdf file naming: APS-Global-Summit-2026
 
 <!--
 #### [AI Community Vision Planning Workshop](https://indico.flatironinstitute.org/event/4112/)
