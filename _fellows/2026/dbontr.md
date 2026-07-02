@@ -9,8 +9,8 @@ active: True
 dates:
   - start: 2025-05-19
     end: 2025-08-25
-  - start: 2026-06-10
-    end: 2026-08-30
+  - start: 2026-06-08
+    end: 2026-08-28
 photo: /assets/images/team/fellows-2025/Devon-Bontrager.jpg
 institution: University of Kansas
 e-mail: devonlbontrager@ku.edu
